@@ -23,7 +23,10 @@ This Python project allows you to extract all street centerlines within a specif
 
 ## Data
 
-- NYC street centerline Shapefile data (already included in `Centerline_20250522/`)
+NYC street centerline Shapefile data is required for this project.
+You can download the latest official data from NYC Open Data:
+[NYC Street Centerline (CSCL) Shapefile - NYC Open Data](https://data.cityofnewyork.us/Transportation/NYC-Street-Centerline-CSCL-/i4gi-tjb9)
+After downloading, extract the files into the Centerline_20250522/ directory (or update the script to point to your data folder).
 
 ## Usage
 
